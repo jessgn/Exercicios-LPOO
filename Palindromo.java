@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.String;
 
-public class E9{
+public class Palindromo{
   public static void main (String args[]){
     int i=0;
     Scanner s = new Scanner (System.in);
