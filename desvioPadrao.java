@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class E13{
+public class desvioPadrao{
   public static void main (String args[]){
     Scanner s = new Scanner (System.in);
     int qtd=0;
