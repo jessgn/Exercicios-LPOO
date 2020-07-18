@@ -1,4 +1,4 @@
-class E8
+class Inverte
 {
   public static void main (String args[])
   {
