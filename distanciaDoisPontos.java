@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class E8
+class distanciaDoisPontos
 {
   public static void main (String args[])
   {
