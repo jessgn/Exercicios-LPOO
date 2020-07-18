@@ -1,4 +1,4 @@
-class E9
+class Calculadora
 {
   public static void main (String args[])
   {
