@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.lang.String;
 import java.util.*;
 
-public class E3{
+public class somaPares{
   public static void main (String args[]){
     int i;
     Scanner s = new Scanner (System.in);
