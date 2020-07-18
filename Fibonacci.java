@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class E13
+class Fibonacci
 {
   public static void main (String args[])
   {
