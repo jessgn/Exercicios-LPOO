@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class E4
+class velocidadeMedia
 {
   public static void main (String args[])
   {
