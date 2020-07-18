@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class E6{
+public class indicePluviometrico{
   public static void main (String args[]){
     int i;
     Double dado[] = new Double[7];
