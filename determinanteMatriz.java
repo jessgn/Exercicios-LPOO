@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class E11{
+public class determinanteMatriz{
   public static void main (String args[]){
     Scanner s = new Scanner (System.in);
     int m[][] = new int [3][3];
