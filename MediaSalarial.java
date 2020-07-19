@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class mediaSalarial{
+public class MediaSalarial{
   public static void main (String args[]){
     int i=0;
     int qtd=0;
